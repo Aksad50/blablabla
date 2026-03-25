@@ -1,7 +1,7 @@
 # Hi there, I'm Aksad! 👋
 
 ### 🚀 Aspiring Prompt Engineer & Python Developer
-I am a passionate learner currently diving deep into **CS50x**, with a special focus on **Python** and **AI Interactions**. I love solving problems using simple, clean code and crafting precise prompts to unlock the full potential of LLMs.
+I am a passionate learner currently diving deep into **CS50x**, with a special focus on **Python** , **HTML** and **AI Interactions**. I love solving problems using simple, clean code and crafting precise prompts to unlock the full potential of LLMs.
 
 ---
 
@@ -17,7 +17,7 @@ I am a passionate learner currently diving deep into **CS50x**, with a special f
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Aksad50&show_icons=true&theme=dark" alt="Aksad's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksad50&layout=compact&theme=dark&hide=html,css" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksad50&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ---
