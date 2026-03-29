@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Aksad50">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=127&lines=I'm+a+programmer;I'm+into+Prompt+Engineering;I'm+interested+in+AI;I+love+Building+Tools;I+write+Python+%26+HTML;By+the+way+I+use+Windows+%F0%9F%92%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=127&lines=I'm+a+intro+programmer;I'm+into+Prompt+Engineering;I'm+interested+in+AI;I+love+Building+Tools;I+write+Python+%26+HTML;By+the+way+I+use+Windows+%F0%9F%92%80" />
 </a>
 
 </div>
