@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://www.kaggle.com/shahariarazimaksad">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/shahariar-azim-aksad-69aaaa3b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUG%2BWmOeRTaKk%2FVncV94W0w%3D%3D">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+
+<a href="https://www.instagram.com/aksad_404_exe/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+
+---
 # Hi, I'm 💬 Aksad
 
 <div align="center">
@@ -153,3 +175,7 @@ If you enjoy my projects or find them useful, consider supporting me! Every bit 
 *"The art of asking the right question is the key to unlocking AI's potential."* — Aksad50
 
 </div>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
