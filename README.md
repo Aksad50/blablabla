@@ -107,10 +107,9 @@ class Aksad50:
 
 | Area | What I Work On |
 |---|---|
-| 🤖 Prompt Engineering | Crafting effective prompts for AI models, optimizing LLM interactions |
-| 🐍 Python Development | automation tools, data processing |
-| 🌐 Web Development | HTML, CSS, frontend design, responsive interfaces |
-| ⚙️ Automation | Building tools to streamline workflows and tasks |
+| 🤖 Prompt Engineering | 🚀Incoming! Starting structured learning soon... |
+| 🐍 Python Development | Building logic with loops, functions, and data structures |
+| 🌐 Web Dev | HTML, CSS |
 
 
 ---
@@ -128,10 +127,6 @@ class Aksad50:
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-AI-purple?style=flat-square)
-
-**Cloud & DevOps:**
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
 **Tools & Environments:**
 
